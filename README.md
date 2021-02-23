@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-I'm Agung Rageshwara i'm Just Newbie Web Programming
+- I'm Agung Rageshwara i'm Just Newbie Web Programming
 
 <!--
 **aguraku/aguraku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
