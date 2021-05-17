@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 <ul>
-  <li>I'm <b>Agung Rageshwara</b> Newbie Web Programming :see_no_evil:</li>
+  <li>I'm <b>Agung Rageshwara</b> Web Programming</li>
 </ul>
 
 <!--
