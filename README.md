@@ -1,7 +1,5 @@
 ### Hi everyone 👋
-<ul>
-  <li>I'm <b>Agung Rageshwara</b> Web Programming</li>
-</ul>
+<h6 style="text-align:center;">I'm <b>Agung Rageshwara</b> Web Programming</h6>
 
 <!--
 **aguraku/aguraku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
