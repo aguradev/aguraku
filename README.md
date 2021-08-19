@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 <h4>I'm <b>Agung Rageshwara</b> Web Dev</h4>
-<p>i was born in bali, denpasar and currently i learn frontend web road</p>
+<p>i was born in bali, denpasar and currently i learn frontend web</p>
 
 <!--
 **aguraku/aguraku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
