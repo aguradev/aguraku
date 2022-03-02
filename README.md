@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-<h4>I'm <b>Agung Rageshwara</b> Web Dev</h4>
+<h4>I'm <b>Agung Rageshwara</b></h4>
 <p>i live in bali, denpasar and currently i learn frontend web</p>
 
 <!--
