@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 <h4>I'm <b>Agung Rageshwara</b></h4>
-<p>i live in bali.</p>
+<p>Web Dev</p>
 
 <!--
 **aguraku/aguraku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
